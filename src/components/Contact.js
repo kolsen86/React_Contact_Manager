@@ -10,7 +10,7 @@ class Contact extends Component {
           <li>Phone: 313-247-0516</li>
         </ul>
       </div>
-    )
+    );
   }
 }
 
